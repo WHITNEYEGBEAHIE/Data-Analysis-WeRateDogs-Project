@@ -9,11 +9,17 @@ and comments about dogs. The WeRateDogs has over 9 million followers and they ar
 
 ### REQUIREMENTS
  Jupyter Notebook
+ 
  Pandas
+ 
  Numpy
+ 
  Tweepy
+ 
  json
+ 
  Twitter API
+ 
  Matplotlib
 
 
