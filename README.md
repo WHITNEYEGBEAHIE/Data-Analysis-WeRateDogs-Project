@@ -8,18 +8,18 @@ is also referred to as WeRateDogs. This twitter account rates so many people’s
 and comments about dogs. The WeRateDogs has over 9 million followers and they are widely known.
 
 ### REQUIREMENTS
-# Jupyter Notebook
-# Pandas
-# Numpy
-# Tweepy
-# json
-# Twitter API
-# Matplotlib
+ Jupyter Notebook
+ Pandas
+ Numpy
+ Tweepy
+ json
+ Twitter API
+ Matplotlib
 
 
 
 ### RECOMMENDATIONS: 
-# There should be events hosted for dogs.
+There should be events hosted for dogs.
 
- # Maugre the fact that they deserve being given the credit for accurate ways of rating dogs, They 
+  Maugre the fact that they deserve being given the credit for accurate ways of rating dogs,they 
 should look forward to other unique ways of human service to rating dogs.
